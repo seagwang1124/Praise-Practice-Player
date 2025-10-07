@@ -1,1 +1,4 @@
 # Praise-Practice-Player
+
+93. [성가대 유튜브 찬양 반복 연습](https://seagwang1124.github.io/Praise-Practice-Player
+/%EC%84%B1%EA%B0%80%EB%8C%80%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EC%B0%AC%EC%96%91%20%EB%B0%98%EB%B3%B5%20%EC%97%B0%EC%8A%B5.HTML)
